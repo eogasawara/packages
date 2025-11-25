@@ -1,6 +1,6 @@
-# Slides de Metodologia Científica
+# Slides de Apresentações dos Pacotes do DAL
 
-Coleção de apresentações utilizadas em disciplina de metodologia científica e preparação de dados. Cada item traz o título do slide e um resumo rápido do foco abordado.
+Coleção de apresentações para apresentar os pacotes do DAL. Cada item apresenta o título do slide e um resumo rápido do foco abordado.
 
 1. [Data Cleaning & Representation](daltoolbox-data-cleaning.pdf): fundamentos de qualidade de dados, remoção de ruídos e formas de representar atributos para modelos mais confiáveis.
 2. [Data Discretization & Smoothing](daltoolbox-data-discretization-and-smoothing.pdf): técnicas para discretizar variáveis contínuas e suavizar séries preservando significado estatístico.
